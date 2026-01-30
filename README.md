@@ -20,7 +20,7 @@ Banco de Dados: Microsoft SQL Server (Modelagem, Normalização e Constraints).
 
 * Cálculos: Linguagem DAX para métricas dinâmicas.
 
-##🏗️ Arquitetura e Modelagem de Dados
+## 🏗️ Arquitetura e Modelagem de Dados
 O dashboard é sustentado por um esquema relacional robusto, garantindo a integridade dos dados e a performance das consultas. A estrutura foi desenhada seguindo as melhores práticas de banco de dados:
 
 * Tabelas Dimensão: Clientes, Produtos, Vendedores e Lojas.
